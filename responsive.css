@@ -1,0 +1,29 @@
+@media screen and (max-width: 889px) {
+	html {
+		font-size: 70%; 
+	}
+	.nom-nav{
+		display: block;
+	}
+	.left{
+		display: none;
+	}
+	.left--open{
+		display: block;
+	}
+	.onlain{
+		display: none;
+	}
+};
+@media screen and (max-width: 480px){
+	html{
+		font-size: 50%;
+	}
+	..page__cell{
+		width: 100%;
+	}
+	.page__row{
+		width: 100%;
+	}
+
+};
